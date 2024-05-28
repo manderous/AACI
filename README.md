@@ -1,7 +1,7 @@
 Improving long-tail relation extraction via adaptive adjustment and causal inference
 ==========
 
-This repo contains the *PyTorch* implementation for our proposed AACI in paper "Improving long-tail relation extraction via adaptive adjustment and causal inference".
+This project includes the code implemented with PyTorch and the paper 'Improving Long-tail Relation Extraction via Adaptive Adjustment and Causal Inference' published in the Neurocomputing 2023 journal.
 
 https://doi.org/10.1016/j.neucom.2023.126563
 
