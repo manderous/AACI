@@ -9,7 +9,8 @@ https://doi.org/10.1016/j.neucom.2023.126563
 ```
 python train_tjy_la.py --id [saved_models/your_model_name] --seed 1234 --effect_type None --lr 1 --num_epoch 40 --pooling max --mlp_layers 2 --pooling_l2 0
 ```
-
+对于NYT24数据集的模型：saved_models/CGCN-De-confound-TDE-63
+对于NYT数据集的模型：saved_models/CGCN_nyt10_adjust_alpha_05_53_epoch_40
 ## Evaluation
 
 To run evaluation on the test set for CGCN, run:
