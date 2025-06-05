@@ -16,3 +16,7 @@ To run evaluation on the test set for CGCN, run:
 ```
 python eval.py [saved_models/your_model_name] --dataset test
 ```
+
+## 模型保存
+saved_models中保存的模型：https://drive.google.com/drive/folders/1WJZh7yLRr8m2O9PNUaAd7lQX2yaBHi0t?usp=drive_link
+
