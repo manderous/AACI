@@ -5,6 +5,8 @@ This project includes the code implemented with PyTorch and the paper **Improvin
 
 https://doi.org/10.1016/j.neucom.2023.126563
 
+![image](logo_cover_photo/AACI_Cover_photo.jpg)
+
 ## Training
 ```
 python train_tjy_la.py --id [saved_models/your_model_name] --seed 1234 --effect_type None --lr 1 --num_epoch 40 --pooling max --mlp_layers 2 --pooling_l2 0
