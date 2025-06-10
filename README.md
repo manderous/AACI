@@ -1,7 +1,10 @@
-Improving long-tail relation extraction via adaptive adjustment and causal inference
-==========
+# Improving long-tail relation extraction via adaptive adjustment and causal inference
+
+# 基于因果推理和类别调整的长尾实体关系抽取方法
 
 This project includes the code implemented with PyTorch and the paper **Improving Long-tail Relation Extraction via Adaptive Adjustment and Causal Inference** published in the **Neurocomputing 2023** journal.
+
+该工程为论文**基于因果推理和类别调整的长尾实体关系抽取方法**的代码，该文章发表至Neurocomputing期刊。
 
 https://doi.org/10.1016/j.neucom.2023.126563
 
